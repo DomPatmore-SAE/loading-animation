@@ -1,0 +1,12 @@
+body{
+    border: 1px solid black;
+    min-height: 600px;
+    min-width: 600px;
+    .spinner{
+        border: 0 0 3px 0;
+        border-bottom: solid green;
+        margin: auto auto;
+        width: 100px;
+        height: 200px;
+    }
+}
