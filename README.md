@@ -7,3 +7,15 @@ In this task you'll be developing animation skills to building simple loaders.
 3. Using a property that allows rotation, rotate the line by 90 degrees, then back 120 degrees, then forward to the starting position. It should like a gauge trying to find equilibrium.
 4. Get the line to spin clockwise 360 degrees continuously.
 5. With 4, see how you can ALSO get the line to move forward and backward (this is challenging!)
+
+# personas
+Below is a list of websites submitted by your classmates. Pick 2 and create personas for each. In class next week, we'll guess that website based on your persona.
+
+Websites:
+
+webtoon
+highqualityprojects
+worldlottos
+vizer.tv
+eslamoda
+leylita
